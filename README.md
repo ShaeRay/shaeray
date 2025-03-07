@@ -1,6 +1,6 @@
 ## Hey ！ This is ShaeRay 👋
 
-![image-20250307184324747](./assets/image-20250307184324747.png)
+![sharkiee](./assets/sharkiee.jpg)
 
 ## Social media 📱
 
