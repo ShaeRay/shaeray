@@ -1,6 +1,6 @@
 ## Hey ！ This is ShaeRay 👋
 
-![sharkiee](./assets/sharkiee.jpg)
+<img src="./assets/sharkiee.jpg" align = "right" width=100% height="400"/>
 
 ## Social media 📱
 
