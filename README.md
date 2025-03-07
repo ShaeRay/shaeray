@@ -1,6 +1,6 @@
 ## Hey ！ This is ShaeRay 👋
 
-<img src="./assets/sharkiee.jpg" align = "right" width=100% height="400"/>
+<img src="./assets/sharkiee.jpg" align = "center" width=300 height="200"/>
 
 ## Social media 📱
 
